@@ -14,10 +14,3 @@ My personal portfolio showcasing my projects, skills, achievements, and experien
 - Skills Section<br>
 - Contact Information<br>
 
-## 🔗 Live Demo<br>
-[Visit Portfolio](https://your-portfolio-link.com)<br>
-
-## 🛠️ Run Locally<br>
-```bash<br>
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
